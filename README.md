@@ -62,7 +62,7 @@ Support de cours, validation, guides clé en main, outils et ressources utiles, 
 ### <a href="https://caniuse.com/">Can I use...</a>
 <p>Support des fonctionnalités sur les différents navigateurs</p>
 
-### <a href="https://www.anysurfer.be/fr/documentation">
+### <a href="https://www.anysurfer.be/fr/documentation">Any Surfer</a>
 <p>Guide complet consacré aux bonnes pratiques d’accessibilité numérique pour rendre les sites web utilisables par tous.</p>
 
 ### <a href="https://bootstrap.build/app">Bootstrap Builder</a>
