@@ -8,7 +8,7 @@ Support de cours, validation, guides clé en main, outils et ressources utiles, 
 
 ## Valider son code grâce au W3C ✅
 
-### <a href="https://validator.w3.org/" target="_blank">HTML Validator</a>
+### <a href="https://validator.w3.org/">HTML Validator</a>
 <p>Outil officiel du W3C permettant de vérifier et corriger la validité de son code HTML.</p>
 
 ### <a href="https://jigsaw.w3.org/css-validator/">CSS Validator</a>
