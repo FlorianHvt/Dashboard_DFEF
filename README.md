@@ -2,9 +2,10 @@
 
 # Dev. Front End &amp; Frameworks
 
-<p>Retrouvez toutes les ressources ayant attrait au cours :
-Support de cours, validation, guides clé en main, outils et ressources utiles, etc.
-<br>Revenez quand et autant que vous le voulez ! 🖱️ </p>
+<p>Retrouvez toutes les ressources ayant attrait au cours :<br>
+supports, validation, guides clés en main, outils et ressources utiles, etc.</p>
+
+<p>Revenez quand et autant que vous le voulez ! 🖱️ </p>
 
 ## Valider son code grâce au W3C ✅
 
