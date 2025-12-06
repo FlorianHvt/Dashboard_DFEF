@@ -2,18 +2,17 @@
 
 # Dev. Front End &amp; Frameworks
 
-<p>Retrouvez toutes les ressources ayant attrait au cours.
-Revenez quand et autant que vous le voulez ! 🖱️ </p>
-
+<p>Retrouvez toutes les ressources ayant attrait au cours :
+Support de cours, validation, guides clé en main, outils et ressources utiles, etc.
+<br>Revenez quand et autant que vous le voulez ! 🖱️ </p>
 
 ## Valider son code grâce au W3C ✅
 
-### <a href="https://validator.w3.org/">HTML Validator</a>
+### <a href="https://validator.w3.org/" target="_blank">HTML Validator</a>
 <p>Outil officiel du W3C permettant de vérifier et corriger la validité de son code HTML.</p>
 
 ### <a href="https://jigsaw.w3.org/css-validator/">CSS Validator</a>
 <p>Validateur du W3C pour analyser, vérifier et améliorer la conformité de son code CSS.</p>
-
 
 ## Guide & Cheatsheet 🔄
 
@@ -48,7 +47,7 @@ Revenez quand et autant que vous le voulez ! 🖱️ </p>
 
 ## Outils 🧰
 
-### <a href="https://codepen.io/your-work">Codepen</a>
+### <a href="https://codepen.io/">Codepen</a>
 <p>Bac à sable HTML/CSS/JS, idéal pour tester, prototyper</p>
 
 ### <a href="https://getbootstrap.com/docs/5.3/getting-started/introduction/">Bootstrap</a> v5.3
@@ -63,8 +62,17 @@ Revenez quand et autant que vous le voulez ! 🖱️ </p>
 ### <a href="https://caniuse.com/">Can I use...</a>
 <p>Support des fonctionnalités sur les différents navigateurs</p>
 
+### <a href="https://www.anysurfer.be/fr/documentation">
+<p>Guide complet consacré aux bonnes pratiques d’accessibilité numérique pour rendre les sites web utilisables par tous.</p>
+
 ### <a href="https://bootstrap.build/app">Bootstrap Builder</a>
 <p>Personnaliser Bootstrap (5.0 :-( ) sans avoir recours à SASS</p>
+
+### <a href="https://autoprefixer.github.io/">Autoprefixer</a>
+<p>Outil en ligne ajoutant pour vous les préfixes pour navigateurs nécessaires à votre CSS pour garantir une meilleure compatibilité.</p>
+
+### <a href="https://grabient.com/">Grabient</a>
+<p>Bibliothèque de dégradés éditables et applicables en version svg ou déclarer via CSS</p>
 
 ## Ressources 📤
 
